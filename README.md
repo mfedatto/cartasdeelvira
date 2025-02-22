@@ -1,12 +1,13 @@
-# Cartas de Elvira Cardoso Fedato
+# Cartas de Elvira Cardoso Fedatto
 
-Este repositório contém as cartas de Elvira Cardoso Fedato, matriarca dos Fedato do norte do Paraná.
+Este repositório contém as cartas de Elvira Cardoso Fedatto, matriarca dos Fedatto do norte do
+Paraná.
 Essas cartas são documentos valiosíssimos sobre a história e a vida da vó Elvira e da família
-Fedato.
+Fedatto.
 
-## Sobre Elvira Cardoso Fedato
+## Sobre Elvira Cardoso Fedatto
 
-Elvira Cardoso Fedato foi a matriarca da família Fedato.
+Elvira Cardoso Fedatto foi a matriarca da família Fedatto.
 Suas cartas oferecem uma visão única sobre a vida, reflexões, cantigas, os desafios e as alegrias de
 sua época.
 Elas são um testemunho de sua resiliência, sabedoria e amor pela família.
@@ -14,12 +15,12 @@ Elas são um testemunho de sua resiliência, sabedoria e amor pela família.
 ## Conteúdo do Repositório
 
 - **Cartas**: As cartas estão organizadas por data e tema.
-- **Biografia**: Informações detalhadas sobre a vida de Elvira Cardoso Fedato.
-- **História da Família**: Contexto histórico e genealogia da família Fedato.
+- **Biografia**: Informações detalhadas sobre a vida de Elvira Cardoso Fedatto.
+- **História da Família**: Contexto histórico e genealogia da família Fedatto.
 
 ## Como Contribuir
 
-Se você é um membro da família Fedato ou tem informações adicionais sobre Elvira Cardoso Fedato e
+Se você é um membro da família Fedatto ou tem informações adicionais sobre Elvira Cardoso Fedatto e
 gostaria de contribuir para este repositório, sinta-se à vontade para abrir um pull request ou
 entrar em contato.
 
